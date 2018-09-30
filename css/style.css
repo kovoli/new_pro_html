@@ -1,0 +1,18 @@
+.bg-my {
+    background-color: black;
+}
+.navbar-brand {
+    border-right: 1px solid white;
+    padding-right: 1rem;
+}
+
+.banner {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 0.25rem;
+    position: absolute;
+    bottom: 0;
+    margin: 5px;
+    background-color: #ffffff4f;
+    text-align: center;
+}
