@@ -16,3 +16,22 @@
     background-color: #ffffff4f;
     text-align: center;
 }
+
+.card {
+    border-radius: 0;
+}
+
+.card-footer:last-child {
+    border-radius: 0;
+}
+
+.text-bottun {
+    color: #28a745;
+    background-color: #000000;
+    text-transform: uppercase;
+}
+
+.text-bottun:hover {
+    color: #FFFFFF;
+    background-color: #28a745;
+}
